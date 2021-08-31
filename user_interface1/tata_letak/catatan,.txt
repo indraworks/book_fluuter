@@ -1,0 +1,15 @@
+jadi kalo intinya kalau mau bikin tata letak
+ada pada widget ada Row ,dan ada Column ,
+statementnya sama yaitu Row(Children:<widget>[component1,componet2,component3..]);
+statementnya sama yaitu Column(Children:<widget>[component1,componet2,component3..]);
+utk pengaturan pada row ada mainaxisAlignment.center,start,end
+dan utk column crossaxisalignment.center,start,end.
+kalau di row main axis ada di krir kanan,kalau di col main axis ada di atas bawah
+
+--catatan disini ada main.dart
+    ada juga file layoutRow.dart
+                  layoutCol.dart
+                  layoutRowCol1.dart
+                  layoutRowCol2.dart
+
+cara jalankannya adalah copy dan ganti di dalam main.dart itu aja
